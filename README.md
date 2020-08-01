@@ -7,7 +7,7 @@ A new Flutter application.
 This project is a starting point for a Flutter application.
 
 <br />
-<img src='assets/working.gif'>
+<img src='assets/working.mp4'>
 <br />
 <br />
 <br />
